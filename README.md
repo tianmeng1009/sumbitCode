@@ -1,0 +1,2 @@
+# sumbitCode
+  hello from atom 
